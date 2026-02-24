@@ -1,0 +1,2 @@
+# DIPIE-Based-Bayesian-Radiation-Risk-Assessment-and-Modeling-Framework
+The DIPIE-based Radiation Risk Assessment model integrates radioactive decay physics with biological interventions using dual Poisson and Exponential components. Implemented through a Physics-Informed Bayesian Neural Network with MCMC sampling, it enables probabilistic, data-driven and computationally efficient risk evaluation.
